@@ -34,7 +34,8 @@ print(mer)
 ```
 
 ## Output
-![439329798-26df033a-9708-4c01-8739-4d60e35497e9](https://github.com/user-attachments/assets/8f6dcb91-591e-4f57-845b-00803779e5fc)
+<img width="1149" height="746" alt="image" src="https://github.com/user-attachments/assets/f0fe8692-8040-4cc1-8550-52bd2d8e000a" />
+
 
 ## Result
 Thus,the program has been executed successfully.
